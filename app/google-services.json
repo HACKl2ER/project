@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328724127206",
+    "firebase_url": "https://alone-d0252.firebaseio.com",
+    "project_id": "alone-d0252",
+    "storage_bucket": "alone-d0252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328724127206:android:8176b24b80b447c5e38a27",
+        "android_client_info": {
+          "package_name": "com.example.alone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328724127206-nfgh0g23csq18knf41pueomrgtoga9mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEigRXuKFbrrSAb16Bkoi3hr2e-aQH0Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328724127206-nfgh0g23csq18knf41pueomrgtoga9mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
